@@ -1,7 +1,10 @@
 Objective:-         
 1)Importing the RandomForestClassifier,setting up the model, and training it on the training dataset.
+
 2)Making predictions on the training and testing datasets using the trained model.
+
 3)Printing the training and testing accuracy scores of the model.  
+
 4)Making predictions on the features of the testing dataset (Y) and displaying the "prognosis" and "predicted" columns.           
 
 
